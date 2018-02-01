@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+
+# Distribution / packaging
+**/bin/
+**/include/
+**/lib/
+
+pip-selfcheck.json
